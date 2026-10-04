@@ -1,6 +1,3 @@
-torch
-transformers
-datasets
-evaluate
-rouge-score
-sacrebleu
+torch>=2.0
+numpy>=1.24
+pyyaml>=6.0
